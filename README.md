@@ -24,7 +24,7 @@ Well written user documentation is the key to a great user experience. Experts s
 
  #### Getting organized
 
- As an open source project becomes more popular and more sophisticated, some maintainers find it is easier to move their open source project into an a GitHub organization. This allows you to create separate repositories for your project's promotional website, documentation, source code, etc.
+ As an open source project becomes more popular and more sophisticated, some maintainers find it is easier to move their open source project into an a GitHub organization ([Babel](https://github.com/babel)). This allows you to create separate repositories for your project's promotional website, documentation, source code, etc.
 
  <hr>
  </details>
